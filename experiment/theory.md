@@ -7,7 +7,7 @@ Electrode at which oxidation takes place is anode and the electrode at which red
 
 A series in which metals are arranged in the decreasing order of reduction potential. 
 
-<div style="text-align: center;">
+<div align="center">
 <table>
   <thead>
     <tr>
