@@ -7,8 +7,8 @@ Electrode at which oxidation takes place is anode and the electrode at which red
 
 A series in which metals are arranged in the decreasing order of reduction potential. 
 
-
-<table border="1" cellpadding="8" cellspacing="0">
+<div align="center">
+<table>
   <thead>
     <tr>
       <th>Half-Reaction</th>
@@ -45,7 +45,7 @@ A series in which metals are arranged in the decreasing order of reduction poten
     <tr><td>Li<sup>+</sup>(aq) + e<sup>-</sup> → Li(s)</td><td>-3.02</td></tr>
   </tbody>
 </table>
-
+</div>
 
 We can construct innumerable number of galvanic cells by taking combinations of different half cells. Each half cell consists of a metallic road dipped in to an electrolyte. The metal with higher reduction potential act as cathode and the other will act as anode.
 
