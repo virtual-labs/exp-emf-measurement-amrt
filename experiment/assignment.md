@@ -18,8 +18,7 @@
     Calculate the maximum (reversible) electrical work obtainable from the Daniel cell (Zn | Zn<sup>2+</sup> || Cu<sup>2+</sup> | Cu) using the standard free energies of formation (or absolute free energies) given for Zn(s), Cu(s), Cu<sup>2+</sup>(aq) and Zn<sup>2+</sup>(aq). Given that $E^0_{Zn^{2+}/Zn}$ and $E^0_{Cu^{2+}/Cu}$ are -0.76 and +0.34 V respectively.
   </li>
 
-  <li>
-    For a Daniel cell, the standard free energies (ΔG°) are given as: Zn(s) = 0 kJ·mol<sup>−1</sup>, Cu(s) = 0 kJ·mol<sup>−1</sup>, Cu<sup>2+</sup>(aq) = +64.4 kJ·mol<sup>−1</sup>, Zn<sup>2+</sup>(aq) = −154.0 kJ·mol<sup>−1</sup>. Using these values, calculate the standard EMF E° of the cell.
+  <li> For Daniel Cell involving the cell reaction, $Zn(s) + Cu^2+(aq) \rightleftharpoons  Zn^2+(aq) + Cu(s)$, the standard free energies (ΔG°) are given as: Zn(s) = 0 kJ·mol<sup>−1</sup>, Cu(s) = 0 kJ·mol<sup>−1</sup>, Cu<sup>2+</sup>(aq) = +64.4 kJ·mol<sup>−1</sup>, Zn<sup>2+</sup>(aq) = −154.0 kJ·mol<sup>−1</sup>. Using these values, calculate the standard EMF E° of the cell.
   </li>
 </ol>
 
