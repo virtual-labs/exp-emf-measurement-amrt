@@ -1,0 +1,115 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In an electrochemical cell _____ occurs at anode and _____ occurs at cathode",
+      "answers": {
+        "a": "reduction, oxidation",
+        "b": "two of these are possible, depending on whether the cell is electrolytic or voltaic.",
+        "c": "oxidation, oxidation",
+        "d": "reduction, reduction",
+        "e": "oxidation, reduction"
+      },
+      "explanations": {
+        "a": "Incorrect. Oxidation occurs at the anode, not reduction.",
+        "b": "Incorrect. The given question assumes a standard electrochemical cell setup.",
+        "c": "Incorrect. Oxidation cannot occur at both electrodes.",
+        "d": "Incorrect. Reduction cannot occur at both electrodes.",
+        "e": "Correct. Oxidation occurs at the anode and reduction occurs at the cathode."
+      },
+      "correctAnswer": "e",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The standard hydrogen electrode is assigned a potential of _____ volts",
+      "answers": {
+        "a": "0",
+        "b": "+2",
+        "c": "+1",
+        "d": "-2",
+        "e": "-1"
+      },
+      "explanations": {
+        "a": "Correct. The standard hydrogen electrode is defined to have zero potential by convention.",
+        "b": "Incorrect. +2V is not the standard potential.",
+        "c": "Incorrect. +1V is not correct for SHE.",
+        "d": "Incorrect. -2V is not the standard potential.",
+        "e": "Incorrect. -1V is not the standard potential."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In an electrochemical cell _____ occurs at anode and _____ occurs at cathode",
+      "answers": {
+        "a": "reduction, oxidation",
+        "b": "two of these are possible, depending on whether the cell is electrolytic or voltaic.",
+        "c": "oxidation, oxidation",
+        "d": "reduction, reduction",
+        "e": "oxidation, reduction"
+      },
+      "explanations": {
+        "a": "Incorrect. Oxidation occurs at the anode, not reduction.",
+        "b": "Incorrect. The given question assumes a standard electrochemical cell setup.",
+        "c": "Incorrect. Oxidation cannot occur at both electrodes.",
+        "d": "Incorrect. Reduction cannot occur at both electrodes.",
+        "e": "Correct. Oxidation occurs at the anode and reduction occurs at the cathode."
+      },
+      "correctAnswer": "e",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The standard hydrogen electrode is assigned a potential of _____ volts",
+      "answers": {
+        "a": "0",
+        "b": "+2",
+        "c": "+1",
+        "d": "-2",
+        "e": "-1"
+      },
+      "explanations": {
+        "a": "Correct. The standard hydrogen electrode is defined to have zero potential by convention.",
+        "b": "Incorrect. +2V is not the standard potential.",
+        "c": "Incorrect. +1V is not correct for SHE.",
+        "d": "Incorrect. -2V is not the standard potential.",
+        "e": "Incorrect. -1V is not the standard potential."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which quantities are conserved in all oxidation-reduction reactions?",
+      "answers": {
+        "a": "both charge and mass",
+        "b": "neither charge and mass",
+        "c": "charge only",
+        "d": "mass only"
+      },
+      "explanations": {
+        "a": "Correct. Both mass and charge are conserved in redox reactions.",
+        "b": "Incorrect. At least charge or mass is always conserved.",
+        "c": "Incorrect. Mass is also conserved.",
+        "d": "Incorrect. Charge is also conserved."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which statement describes how a salt bridge maintains electrical neutrality in the half cells of an electrochemical cell?",
+      "answers": {
+        "a": "it permits the migration of ions",
+        "b": "it permits the two solutions to mix completely",
+        "c": "it prevents the reaction from occurring spontaneously",
+        "d": "it prevents the migration of electrons"
+      },
+      "explanations": {
+        "a": "Correct. The salt bridge allows ions to migrate and maintain charge balance.",
+        "b": "Incorrect. The salt bridge prevents mixing of solutions.",
+        "c": "Incorrect. The salt bridge does not prevent spontaneity.",
+        "d": "Incorrect. Electrons flow through the external circuit, not the salt bridge."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
